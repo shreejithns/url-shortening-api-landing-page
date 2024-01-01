@@ -6,7 +6,7 @@
 
 Thanks for checking out this .
 
-##Your users should be able to:
+## Your users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - Shorten any valid URL
