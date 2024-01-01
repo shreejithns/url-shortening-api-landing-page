@@ -2,6 +2,8 @@
 
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
 
+## (Live Demo)[https://shreejithns.github.io/url-shortening-api-landing-page/]
+
 ## Welcome! 👋
 
 Thanks for checking out this .
